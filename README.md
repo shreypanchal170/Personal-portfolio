@@ -1,2 +1,2 @@
 # person-portfolio
-person portfolio react.js
+person portfolio .js
