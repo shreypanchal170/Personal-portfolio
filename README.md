@@ -1,2 +1,2 @@
-# person-portfolio
-person portfolio .js
+# personal-portfolio
+personal portfolio .js
